@@ -1,2 +1,0 @@
-# Batik_FriezeKristalografi
-Web
